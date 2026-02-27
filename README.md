@@ -1,11 +1,11 @@
 # Olá, eu sou a Diana 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedora em formação com foco em Desenvolvimento Web  
+💻 Desenvolvedora em formação direcionando carreira para Desenvolvimento de Software
 
 ---
 
-## 🚀 Tecnologias em aprendizado
+## 🚀 Tecnologias e conhecimentos
 
 - HTML
 - CSS
@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivo
 
-Busco oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com dedicação e aprendizado contínuo.
+Busco minha primeira oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com responsabilidade em projetos reais.
 
 ---
 
