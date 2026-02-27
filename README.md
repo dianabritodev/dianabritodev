@@ -24,7 +24,9 @@ Busco minha primeira oportunidade de estágio em desenvolvimento para aplicar me
 
 ## 📂 Projetos
 
-🌐 Landing Page - https://github.com/dianabritodev/landing-page-portifolio.git
+🌐 Landing Page Responsiva – [Ver site](https://dianabritodev.github.io/landing-page-portifolio/)
+
+🔎 Código no GitHub – [Ver repositório](https://github.com/dianabritodev/landing-page-portifolio)
 
 ---
 
