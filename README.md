@@ -24,10 +24,7 @@ Busco minha primeira oportunidade de estágio em desenvolvimento para aplicar me
 
 ## 📂 Projetos
 
-Em breve:
-- Landing Page Responsiva
-- Projeto interativo com JavaScript
-- Mini sistema em Python
+🌐 Landing Page - https://github.com/dianabritodev/landing-page-portifolio.git
 
 ---
 
